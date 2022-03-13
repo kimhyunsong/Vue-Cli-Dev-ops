@@ -131,17 +131,17 @@ DevOps : https://www.netapp.com/ko/devops-solutions/what-is-devops/
 
 #### 테스트 결과
 
-![vue-site](C:\Users\ssong\Desktop\새 폴더\이미지\vue-site.png)
+![vue-site](vue-site.png)
 
 
 
 
 
-![vue-workflow](C:\Users\ssong\Desktop\새 폴더\이미지\vue-workflow.png)
 
 
 
 
+![vue-workflow](vue-workflow.png)
 
 
 
