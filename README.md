@@ -120,8 +120,8 @@ DevOps : https://www.netapp.com/ko/devops-solutions/what-is-devops/
   
   ```
 
-  - 여기서 문제가 들여쓰기 오류나면 deploy를 안해준다... 물론 에러를 다 잡아주긴 하지만 이건 좀 너무하다는 생각이...그렇다
-  - 야믈파일이 xml이나 json과 같은 포맷에 비하면 가독성이 높고 편리하다는 의견이 다수인데 실제로 훨씬 가시적이다.
+
+
 
 
 
