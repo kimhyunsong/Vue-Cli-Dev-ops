@@ -151,18 +151,5 @@ DevOps : https://www.netapp.com/ko/devops-solutions/what-is-devops/
 
 github으로 commit으로만 deploy를 진행할 수 있다는 점에서 보다 완성도 높은 프로젝트를 개발할 수 있는 기능을 배우게 되었다.
 
-이 기능은 매우 유용하고 간편한 방법이라 할 수 있겠다지만....
-
-1. netlify는 다수의 도메인을 쓸수 있는데 github page는 단일 도메인밖에 못쓴다.
-
-   
 
 
-
-
-
-
-
-![image-20211228100212508](README.assets/image-20211228100212508.png)
-
-​		 
